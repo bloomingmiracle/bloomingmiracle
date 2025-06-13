@@ -19,5 +19,5 @@
 > “Don’t despise small beginnings, every day is a new chance to grow, learn and **bloom**".
 
 📫 You can reach me here on GitHub. --🌐 Connect with me also:  
-💌 bloomingmi01@gmail.com](mailto:bloomingmi01@gmail.com)  
+💌 [bloomingmi01@gmail.com](mailto:bloomingmi01@gmail.com)  
 💼 [LinkedIn](www.linkedin.com/in/miracle-temitope-hazzan-51a252366)
