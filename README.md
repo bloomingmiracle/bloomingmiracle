@@ -1,32 +1,21 @@
-## 👋🏾 Hi, I'm Miracle !
+# Hi, I'm Miracle 👋🏾
 
-🎓 I'm a Computer Science student at **UFPB (Universidade Federal da Paraíba)**, currently in my **2nd period**, i must say, there's so much more to discover in this journey."
+I'm a **Computer Science student at UFPB**, currently in my **3rd period**. I enjoy exploring technology, building projects, and learning new skills every day.
 
----
-##🧠 I'm still exploring my path in tech, but I know this:
-- I love **design**, especially when it meets purpose.
-- I'm **curious**, eager to learn, and not afraid to try new things.
-- I'm beginning to enjoy working on **projects with others**, discovering how group problem-solving can bring ideas to life.
-- Sometimes I dive deep into complex topics and I enjoy the challenge of understanding them.
+## 🛠️ Skills & Learning
 
----
-🛠️ I'm currently learning and improving in:
-- Frontend Development (HTML, CSS)
-- Git & GitHub (👋🏾 hey, still figuring this place out!)
-- UI/UX Principles
+**Languages & Technologies:**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
----
- My current technologies are:
-  - Java
-  - Python
-  - C
+**Currently learning:**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![UI/UX](https://img.shields.io/badge/UI%2FUX-FC6D26?style=for-the-badge&logo=figma&logoColor=white)
 
----
-✨ I'm excited and passionate about growing, exploring the vast world of technology, collaborate, and finding where I can make meaningful impacts with love and purpose✨ 
-
-> “Don’t despise small beginnings, every day is a new chance to grow, learn and **bloom**".
-
----
-📫 You can reach me here on GitHub:  
-💌 [bloomingmi01@gmail.com](mailto:bloomingmi01@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/miracle-temitope-hazzan-51a252366?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BhNaRsx8tR0mttwH8rz48dQ%3D%3D)
+## 📫 Contact
+- Email: 💌 bloomingmi01@gmail.com  
+- LinkedIn: 💼 [Your LinkedIn Profile Link]
