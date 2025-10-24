@@ -18,4 +18,4 @@ I'm a **Computer Science student at UFPB**, currently in my **3rd period**. I en
 
 ## 📫 Contact
 - Email: 💌 bloomingmi01@gmail.com  
-- LinkedIn: 💼 [Your LinkedIn Profile Link]
+- LinkedIn: 💼 [[My LinkedIn Profile](https://www.linkedin.com/in/miracle-temitope-hazzan-51a252366?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BB05DLZKtQam2sq0wnz%2Brzw%3D%3D)]
