@@ -1,6 +1,6 @@
 # Hi, I'm Miracle 👋🏾
 
-I'm a **Computer Science student at UFPB**, currently in my **3rd period**. I enjoy exploring technology, building projects, and learning new skills every day.
+I'm a **Computer Science student at UFPB**, currently in my **4th period**. I enjoy exploring technology, building projects, and learning new skills every day.
 
 ## 🛠️ Skills & Learning
 
